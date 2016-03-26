@@ -1,0 +1,30 @@
+.rows{
+  margin: 15px 0px;
+}
+
+#registerBody{
+  width: 80%;
+}
+
+.leftColumn {
+  text-align: left;
+  float: left;
+  width: 20%;
+  padding-left: 25%;
+}
+
+.rightColumn {
+  text-align: left;
+  width: 35%;
+  padding-left: 30%;
+}
+
+#heading{
+
+  text-align:center;
+}
+
+
+#helpinfo{
+
+  border:3px solid #cfdcec;}
